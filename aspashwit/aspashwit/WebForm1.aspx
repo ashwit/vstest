@@ -19,7 +19,7 @@
     </div>
     </form>
     <p>
-        <input id="Text1" type="text" placeholder="Type anything" /></p>
+        <input id="Text1" type="text" placeholder="Type A Word" /></p>
     <p>
         <input id="Submit1" type="submit" value="Submit Value" /></p>
     <p>
