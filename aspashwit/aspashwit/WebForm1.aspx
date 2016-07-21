@@ -15,11 +15,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <b>Hello World !!!</b>
+    <b>Custom Form Page</b>
     </div>
     </form>
     <p>
-        <input id="Text1" type="text" placeholder="Type A Word" /></p>
+        <input id="Text1" type="text" placeholder="Type anything" /></p>
     <p>
         <input id="Submit1" type="submit" value="Submit Value" /></p>
     <p>
